@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there 👋
 
-<!--
-**chidexebere/chidexebere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Chidi**. I am a Frontend developer who loves solving product problems and building memorable experiences on the web.
 
-Here are some ideas to get you started:
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=chidexebere&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 👨🏾‍💻 I love to contribute to **open source**
+- 🎨 I love **UI, UX and product design**
+- ✍🏽 I write about what I have learnt
+- 🔥 My technical proficiency is in **web technologies** including **Javascript, TypeScript, React and NextJS**
+- 🤔 I’m looking for my **next Frontend developer/engineering opportunity**
+- 📫 You can reach me via: [Email](conyegbuchulem@gmail.com), [LinkedIn](https://www.linkedin.com/in/onyegbuchulem-chidiebere)
+
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chidexebere&layout=compact&theme=cobalt&hide_border=true" />
