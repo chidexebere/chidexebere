@@ -10,4 +10,4 @@ My name is **Chidi**. I am a Frontend developer who loves solving product proble
 - ✍🏽 I write about what I have learnt
 - 🔥 My technical proficiency is in **web technologies** including **Javascript, TypeScript, React and NextJS**
 - 🤔 I’m looking for my **next Frontend developer/engineering opportunity**
-- 📫 You can reach me via: [Email](conyegbuchulem@gmail.com), [LinkedIn](https://www.linkedin.com/in/onyegbuchulem-chidiebere)
+- 📫 You can reach me via: [Email](conyegbuchulem@gmail.com), [LinkedIn](https://www.linkedin.com/in/onyegbuchulem-chidiebere) or [Twitter](https://twitter.com/chidexebere)
