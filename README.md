@@ -2,7 +2,9 @@
 
 My name is **Chidi**. I am a Frontend developer who loves solving product problems and building memorable experiences on the web.
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=chidexebere&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+<!---
+<> <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=chidexebere&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />
+--->
 
 
 - 👨🏾‍💻 I love to contribute to **open source**
